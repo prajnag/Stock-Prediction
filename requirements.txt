@@ -1,0 +1,8 @@
+tensorflow==1.15
+numpy==1.18.2
+pandas==1.0.3
+yfinance==0.1.54
+sklearn==0.0
+scikit-learn==0.22.2.post1
+pandas==1.0.3
+matplotlib==3.2.1
